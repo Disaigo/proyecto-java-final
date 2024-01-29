@@ -1,0 +1,115 @@
+{
+    "facil": [
+    {
+        "pregunta": "¿Cuál es la capital de Francia?",
+        "opciones": ["Berlín", "Madrid", "París", "Londres"],
+        "respuesta_correcta": "París"
+    },
+    {
+        "pregunta": "¿Cuántos lados tiene un triángulo?",
+        "opciones": ["3", "4", "5", "6"],
+        "respuesta_correcta": "3"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de España?",
+        "opciones": ["Berlín", "Madrid", "París", "Londres"],
+        "respuesta_correcta": "Madrid"
+    },
+    {
+        "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+        "opciones": ["1939", "1941", "1945", "1947"],
+        "respuesta_correcta": "1939"
+    },
+    {
+        
+        "pregunta": "¿Cuántos planetas hay en nuestro sistema solar?",
+        "opciones": ["7", "8", "9", "10"],
+        "respuesta_correcta": "8"
+    }
+    ],
+    "intermedio": [
+    {
+        
+        "pregunta": "¿Cuál es la montaña más alta del mundo?",
+        "opciones": ["Monte Everest", "Monte Kilimanjaro", "Monte McKinley", "Monte Aconcagua"],
+        "respuesta_correcta": "Monte Everest"
+    },
+    {
+        "pregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
+        "opciones": ["George Washington", "Thomas Jefferson", "John Adams", "James Madison"],
+        "respuesta_correcta": "George Washington"
+    },
+    {
+        
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "opciones": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+        "respuesta_correcta": "Amazonas"
+    },
+    {
+        "pregunta": "¿Cuál es el componente más abundante en la atmósfera de la Tierra?",
+        "opciones": ["Nitrógeno", "Oxígeno", "Dióxido de carbono", "Argón"],
+        "respuesta_correcta": "Nitrógeno"
+    },
+    {
+        "pregunta": "¿En qué año se fundó la Organización de las Naciones Unidas (ONU)?",
+        "opciones": ["1945", "1950", "1930", "1960"],
+        "respuesta_correcta": "1945"
+    }
+    ],
+    "dificil": [
+    {
+        "pregunta": "¿Cuál es el país más grande del mundo en términos de superficie?",
+        "opciones": ["China", "Rusia", "Estados Unidos", "Canadá"],
+        "respuesta_correcta": "Rusia"
+    },
+    {
+        "pregunta": "¿Quién formuló la teoría de la relatividad?",
+        "opciones": ["Isaac Newton", "Niels Bohr", "Albert Einstein", "Werner Heisenberg"],
+        "respuesta_correcta": "Albert Einstein"
+    },
+    {
+        "pregunta": "¿Cuál es el metal más abundante en la corteza terrestre?",
+        "opciones": ["Hierro", "Aluminio", "Cobre", "Oro"],
+        "respuesta_correcta": "Aluminio"
+    },
+    {
+        "pregunta": "¿Quién descubrió la penicilina?",
+        "opciones": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Robert Koch"],
+        "respuesta_correcta": "Alexander Fleming"
+    },
+    {
+        "pregunta": "¿Cuál es el componente principal de la atmósfera de Venus?",
+        "opciones": ["Dióxido de carbono", "Nitrógeno", "Oxígeno", "Vapor de agua"],
+        "respuesta_correcta": "Dióxido de carbono"
+    }
+    ],
+    "infierno": [
+        {
+            "pregunta": "¿Cuál es la constante de Planck?",
+            "opciones": ["6.626 x 10^-34 J·s", "9.81 m/s^2", "3 x 10^8 m/s", "1.602 x 10^-19 C"],
+            "respuesta_correcta": "6.626 x 10^-34 J·s"
+        },
+        {
+            "pregunta": "¿Cuál es la fórmula química del compuesto denominado ácido sulfúrico?",
+            "opciones": ["HCI", "HNO3", "H2SO4", "H3SPO4"],
+            "respuesta_correcta": "H2SO4"
+        },
+        {
+            "pregunta": "¿Cuántos electrones tiene un átomo de oxígeno en su capa externa?",
+            "opciones": ["4", "6", "8", "2"],
+            "respuesta_correcta": "6"
+        },
+        {
+            "pregunta": "¿Cuál es la capital de Burkina Faso?",
+            "opciones": ["Accra", "Bamako", "Ouagadougou", "Lomé"],
+            "respuesta_correcta": "Ouagadougou"
+        },
+        {
+            "pregunta": "¿Cuál es la velocidad de la luz?",
+            "opciones": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+            "respuesta_correcta": "300,000 km/s"
+        }
+        
+    ]
+}
+

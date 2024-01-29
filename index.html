@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">        
+    <title>Quiz de Preguntas</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@10/dist/sweetalert2.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="quiz-container">
+        <h1>Quiz de Preguntas</h1>
+        <div>
+            <label for="difficulty-select">Selecciona la dificultad:</label>
+            <select id="difficulty-select">
+                <option value="facil">Fácil: si fallas te costarán las demás dificultades</option>
+                <option value="intermedio">Intermedio: preguntas de conocimiento general</option>
+                <option value="dificil">Difícil: te va a costar</option>
+                <option value="infierno">INFIERNO</option>
+            </select>
+        </div>
+        <div id="question-container"></div>
+        <button id="next-btn">Siguiente</button>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+    <script src="./quiz.js"></script>
+    
+</body>
+</html>
+
